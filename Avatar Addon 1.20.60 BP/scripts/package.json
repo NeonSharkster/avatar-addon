@@ -1,11 +1,11 @@
 {
-  "name": "avatar-addon",
+  "name": "avatar",
   "version": "2.0.0",
-  "description": "addon",
+  "description": "server",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "authors": ["GlitchyTurtle32"],
+  "authors": ["NeonSharkster"],
   "license": "GPLv3"
 }
